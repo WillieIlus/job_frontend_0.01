@@ -13,9 +13,9 @@
             </div>
           </div>
           <div class="flex flex-shrink-0 items-center">
-            <img class="block h-8 w-auto lg:hidden" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+            <img class="block h-8 w-auto lg:hidden" src=""
               alt="Your Company" />
-            <img class="hidden h-8 w-auto lg:block" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+            <img class="hidden h-8 w-auto lg:block" src=""
               alt="Your Company" />
           </div>
           <div class="md:ml-6 md:flex md:items-center my-4 md:space-x-4 md:hidden lg:block">
